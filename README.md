@@ -1,5 +1,5 @@
 # fishingbooker-autotest
-## This repo contains UI automation tests for Fishingbooker
+## This repo contains UI automation test for Fishingbooker
 
 ### How to clone/copy project from repo?
 
