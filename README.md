@@ -10,9 +10,9 @@
 - Clone/copy the repo to your local machine
 - Type in terminal `npm install`, which will install all dependencies
 
-# UI tests
+# UI test
 
-### How to run tests?
+### How to run test?
 
 - To run test type:
   `ENV=env npm run wdio`
